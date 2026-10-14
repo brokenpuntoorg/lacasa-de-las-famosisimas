@@ -1,0 +1,248 @@
+{
+  "votes": {
+    "croissant": 0,
+    "dumpling_rosa": 0,
+    "dumpling_clasico": 4231,
+    "hielo_rojo": 0,
+    "mantequilla": 0,
+    "mantequilla_arcoiris": 0,
+    "medusa": 212,
+    "oreo": 3629,
+    "oveja": 0,
+    "pankoso": 4013,
+    "panquesito": 0,
+    "quesito": 3872
+  },
+  "playerVotes": {
+    "undefined": {
+      "squishyId": "pankoso",
+      "timestamp": 1791753619804
+    },
+    "guest_1vsby7f": {
+      "squishyId": "quesito",
+      "timestamp": 1791753673608
+    },
+    "guest_8agxfst": {
+      "squishyId": "quesito",
+      "timestamp": 1791755793789
+    },
+    "guest_4sftiq9": {
+      "squishyId": "quesito",
+      "timestamp": 1791769302397
+    },
+    "guest_vrrdc70": {
+      "squishyId": "oreo",
+      "timestamp": 1791770428515
+    }
+  },
+  "elimination": {
+    "weekNumber": 4,
+    "title": "La Casa de los Famosísimos 2 - Semana 4 (Oveja Cúbica Líder 🐑 - Nominaciones este Miércoles)",
+    "nominees": [],
+    "immune": [
+      "oveja"
+    ],
+    "leaderId": "oveja",
+    "windowStart": "2026-10-12T00:00:00-07:00",
+    "windowEnd": "2026-10-18T21:30:00-07:00",
+    "status": "upcoming",
+    "eliminatedSquishyId": "oreo",
+    "eliminatedVotes": 3629,
+    "eliminatedSquishyName": "Galleta Oreo",
+    "ceremonyActive": false,
+    "eliminatedHistory": [
+      {
+        "id": "mantequilla",
+        "name": "Mantequilla Clásica",
+        "nickname": "Barra 4oz Salted",
+        "week": 1,
+        "order": 1,
+        "reason": "1° Expulsada de La Casa de los Famosísimos 2 (Semana 1) por menor cantidad de votos del público.",
+        "votes": 142
+      },
+      {
+        "id": "dumpling_rosa",
+        "name": "Dumpling Rosa",
+        "nickname": "Mochi Rosita",
+        "week": 2,
+        "order": 2,
+        "reason": "2° Expulsada de La Casa de los Famosísimos 2 (Semana 2) por menor votación del público en la Gran Gala.",
+        "votes": 2298
+      },
+      {
+        "id": "oreo",
+        "name": "Galleta Oreo",
+        "nickname": "Black & White Titan",
+        "week": 3,
+        "order": 3,
+        "reason": "3° Expulsada de La Casa de los Famosísimos 2 (Semana 3) en la Gran Gala por menor cantidad de votos del público.",
+        "votes": 3629
+      }
+    ],
+    "hideVotesFromPublic": true
+  },
+  "history": [
+    {
+      "roundNumber": 2,
+      "mode": "battle_royale",
+      "categoryName": "Eliminación Semanal: Galleta Oreo eliminado con menos votos (3629)",
+      "fighters": [
+        "quesito",
+        "oreo",
+        "dumpling_clasico",
+        "pankoso"
+      ],
+      "winnerId": "oreo",
+      "winnerName": "Eliminado: Galleta Oreo",
+      "votes": {
+        "croissant": 0,
+        "dumpling_rosa": 0,
+        "dumpling_clasico": 4231,
+        "hielo_rojo": 0,
+        "mantequilla": 0,
+        "mantequilla_arcoiris": 0,
+        "medusa": 212,
+        "oreo": 3629,
+        "oveja": 0,
+        "pankoso": 4013,
+        "panquesito": 0,
+        "quesito": 3872
+      },
+      "totalVotes": 15957,
+      "timestamp": 1791823203140
+    },
+    {
+      "roundNumber": 31,
+      "mode": "battle_royale",
+      "categoryName": "Gran Desafío Squishy",
+      "fighters": [
+        "croissant",
+        "dumpling_rosa",
+        "dumpling_clasico",
+        "hielo_rojo",
+        "mantequilla",
+        "mantequilla_arcoiris",
+        "medusa",
+        "oreo",
+        "oveja",
+        "pankoso",
+        "panquesito",
+        "quesito"
+      ],
+      "winnerId": "croissant",
+      "winnerName": "Croissant Crujiente",
+      "votes": {
+        "croissant": 0,
+        "dumpling_rosa": 0,
+        "dumpling_clasico": 0,
+        "hielo_rojo": 0,
+        "mantequilla": 0,
+        "mantequilla_arcoiris": 0,
+        "medusa": 0,
+        "oreo": 0,
+        "oveja": 0,
+        "pankoso": 0,
+        "panquesito": 0,
+        "quesito": 0
+      },
+      "totalVotes": 0,
+      "timestamp": 1791753404149
+    },
+    {
+      "roundNumber": 2,
+      "mode": "battle_royale",
+      "categoryName": "Eliminación Semanal: Pankoso eliminado con menos votos (1276)",
+      "fighters": [
+        "quesito",
+        "oreo",
+        "dumpling_clasico",
+        "pankoso"
+      ],
+      "winnerId": "pankoso",
+      "winnerName": "Eliminado: Pankoso",
+      "votes": {
+        "croissant": 0,
+        "dumpling_rosa": 0,
+        "dumpling_clasico": 3907,
+        "hielo_rojo": 0,
+        "mantequilla": 0,
+        "mantequilla_arcoiris": 0,
+        "medusa": 212,
+        "oreo": 1249,
+        "oveja": 0,
+        "pankoso": 1276,
+        "panquesito": 0,
+        "quesito": 1194
+      },
+      "totalVotes": 7838,
+      "timestamp": 1791752828858
+    },
+    {
+      "roundNumber": 10,
+      "mode": "battle_royale",
+      "categoryName": "Gran Desafío Squishy",
+      "fighters": [
+        "croissant",
+        "dumpling_rosa",
+        "dumpling_clasico",
+        "hielo_rojo",
+        "mantequilla",
+        "mantequilla_arcoiris",
+        "medusa",
+        "oreo",
+        "oveja",
+        "pankoso",
+        "panquesito",
+        "quesito"
+      ],
+      "winnerId": "croissant",
+      "winnerName": "Croissant Crujiente",
+      "votes": {
+        "croissant": 0,
+        "dumpling_rosa": 0,
+        "dumpling_clasico": 0,
+        "hielo_rojo": 0,
+        "mantequilla": 0,
+        "mantequilla_arcoiris": 0,
+        "medusa": 0,
+        "oreo": 0,
+        "oveja": 0,
+        "pankoso": 0,
+        "panquesito": 0,
+        "quesito": 0
+      },
+      "totalVotes": 0,
+      "timestamp": 1791748990007
+    },
+    {
+      "roundNumber": 2,
+      "mode": "battle_royale",
+      "categoryName": "Eliminación Semanal: Dumpling eliminado con menos votos (1738)",
+      "fighters": [
+        "quesito",
+        "oreo",
+        "dumpling_clasico",
+        "pankoso"
+      ],
+      "winnerId": "dumpling_clasico",
+      "winnerName": "Eliminado: Dumpling",
+      "votes": {
+        "croissant": 0,
+        "dumpling_rosa": 0,
+        "dumpling_clasico": 1738,
+        "hielo_rojo": 0,
+        "mantequilla": 0,
+        "mantequilla_arcoiris": 0,
+        "medusa": 212,
+        "oreo": 1166,
+        "oveja": 0,
+        "pankoso": 1130,
+        "panquesito": 0,
+        "quesito": 1060
+      },
+      "totalVotes": 5306,
+      "timestamp": 1791722499328
+    }
+  ],
+  "savedAt": "2026-10-13T02:30:24.998Z"
+}

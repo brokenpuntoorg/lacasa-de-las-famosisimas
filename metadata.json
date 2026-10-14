@@ -1,0 +1,6 @@
+{
+  "name": "La Casa de los Famosísimos 2",
+  "description": "La Casa de los Famosísimos 2 - Votaciones oficiales en vivo para salvar a tus habitantes favoritos de la expulsión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
